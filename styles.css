@@ -1,0 +1,53 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+    margin-bottom: -0.5px;
+}
+
+hr {
+    margin: 0 auto;
+    width: 410px;
+    height: 4px;
+    border: none;
+    background-color: white;
+}
+
+/* form{
+    display: flex;
+
+} */
+
+.contact-card {
+    margin-top: 2rem;
+    text-align: center;
+    height: 500px;
+    width: auto;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 9rem;
+}
+
+input{
+    margin-top: 1rem;
+    height: 30px;
+    width: 200px;
+    border: none;
+}
+
+
+button{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 2rem;
+    height: 50px;
+    width: 120px;
+}
